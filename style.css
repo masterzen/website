@@ -264,7 +264,7 @@ header {
   margin: auto;
   text-transform: uppercase;
   font-weight: 900;
-  font-size: 10vw;
+  font-size: 5vw;
   background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);
   background-clip: border-box;
   -webkit-background-clip: text;
@@ -307,7 +307,8 @@ nav {
 section {
   max-width: 1040px;
   margin: auto;
-  margin-bottom: 60px; }
+  margin-bottom: 60px;
+  color: white; }
 
 .communaute {
   height: 100%;
@@ -320,6 +321,16 @@ section {
   .communaute svg {
     max-width: 130px;
     height: auto; }
+  .communaute a i {
+    color: white;
+    font-size: 10vw; }
+    .communaute a i:hover {
+      background: linear-gradient(150deg, #FFD14A 15%, #FE8BC4 70%, #D084FE 94%);
+      background-clip: border-box;
+      box-decoration-break: clone;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -webkit-box-decoration-break: clone; }
 
 .communaute-title {
   text-align: center;
