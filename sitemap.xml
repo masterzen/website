@@ -2,27 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+      <loc>/mkfr/guides/1-generalites/</loc>
+      <lastmod>2019-07-11</lastmod>
+    </url>
+    
+    <url>
+      <loc>/mkfr/guides/2-switchs/</loc>
+      <lastmod>2019-07-11</lastmod>
+    </url>
+    
+    <url>
+      <loc>/mkfr/guides/3-formats/</loc>
+      <lastmod>2019-07-11</lastmod>
+    </url>
+    
+    <url>
+      <loc>/mkfr/guides/4-layouts/</loc>
+      <lastmod>2019-07-11</lastmod>
+    </url>
+    
+    <url>
+      <loc>/mkfr/guides/5-comment-choisir/</loc>
+      <lastmod>2019-07-11</lastmod>
+    </url>
+    
+    <url>
+      <loc>/mkfr/guides/6-anatomie/</loc>
+      <lastmod>2019-07-11</lastmod>
+    </url>
+    
+    <url>
+      <loc>/mkfr/guides/</loc>
+      <lastmod>2019-07-11</lastmod>
+    </url>
+    
+    <url>
       <loc>/mkfr/</loc>
-      <lastmod>2019-07-09</lastmod>
+      <lastmod>2019-07-11</lastmod>
     </url>
     
     <url>
       <loc>/mkfr/keyboards/</loc>
-      <lastmod>2019-07-09</lastmod>
+      <lastmod>2019-07-11</lastmod>
     </url>
     
     <url>
       <loc>/mkfr/meetup/</loc>
-      <lastmod>2019-07-09</lastmod>
+      <lastmod>2019-07-11</lastmod>
     </url>
     
     <url>
       <loc>/mkfr/pages-jaunes/</loc>
-      <lastmod>2019-07-09</lastmod>
+      <lastmod>2019-07-11</lastmod>
     </url>
     
     <url>
       <loc>/mkfr/sitemap.xml</loc>
-      <lastmod>2019-07-09</lastmod>
+      <lastmod>2019-07-11</lastmod>
     </url>
 </urlset>
